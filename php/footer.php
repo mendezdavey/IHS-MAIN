@@ -40,7 +40,8 @@
                                     <img src="img/template-assets/map-pin.png" alt="Interior Home Solutions Area of Operations">
                                     <p>
                                         <span>Interior Home Solutions</span>
-                                        <span>Austin, Texas 78753</span>
+                                        <span>223 Jacobs Way, Hutto, TX 78634</span>
+                                       
                                     </p>
                                     <img src="img/template-assets/phone-icon.png" alt="Interior Home Solutions Phone Number">
                                     <p>
