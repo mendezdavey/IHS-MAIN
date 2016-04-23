@@ -21,10 +21,10 @@
             <div class="main-nav-inner">
                 <div class="logo-container">
                     <a href="index.php">
-                    <!--  <h3>Interior Home Solutions</h3></br>
-                        <h6>Custom Cabinets and Interior Trim</h6>-->
+                  
                         <img id="logo" src="IHSLOGOADDINGSwhite.png" alt="Interior Home Solutions Logo">
-                        
+                                      <h5>Interior Home Solutions</h5>
+                   <!-- <h6>Custom Cabinets and Interior Trim</h6>-->
                         <!--<img src="img/logo/logo.png" alt="Marine Food Logo">-->
                     </a>
                 </div><!-- /logo-container -->
