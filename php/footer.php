@@ -78,7 +78,8 @@
         <script src="js/jquery.stellar.min.js"></script>
         <script src="js/jquery.nicescroll.min.js"></script>
         <script src="js/jquery.nav.js"></script>
-        <script src="js/cd-google-map.js"></script>
+        <!-- ADD LATER
+        <script src="js/cd-google-map.js"></script>-->
         <script src="js/wow.min.js"></script>
         <script src="js/tweetie.min.js"></script>
         <script src="js/jquery.scrollme.min.js"></script>

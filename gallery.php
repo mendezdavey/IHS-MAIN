@@ -159,7 +159,7 @@
                             </div><!-- /overlay -->
                         </li>
                         <li class="overlay-container mix bathroom">
-                            <img src="img/gallery/white_bathroom_cabinets.jpg" alt="Marine Food Gallery">
+                            <img src="img/gallery/white_bathroom_cabinets.jpg" alt="White bathroom cabinets">
                             <div class="overlay">
                                 <div class="overlay-details">
                                     <h3>Bathroom Cabinets</h3>
@@ -172,7 +172,7 @@
                             </div><!-- /overlay -->
                         </li>
                         <li class="overlay-container mix livingroom">
-                            <img src="img/gallery/fire_place_gallery.jpg" alt="Marine Food Gallery">
+                            <img src="img/gallery/fire_place_gallery.jpg" alt="Fireplace cabinetry">
                             <div class="overlay">
                                 <div class="overlay-details">
                                     <h3>Living Room Cabinets</h3>
@@ -185,7 +185,7 @@
                             </div><!-- /overlay -->
                         </li>
                         <li class="overlay-container mix livingroom">
-                            <img src="img/gallery/entertainment_centers.jpg" alt="Marine Food Gallery">
+                            <img src="img/gallery/entertainment_centers.jpg" alt="Living room entertainment center">
                             <div class="overlay">
                                 <div class="overlay-details">
                                     <h3>Entertainment Center</h3>
@@ -198,7 +198,7 @@
                             </div><!-- /overlay -->
                         </li>
                         <li class="overlay-container mix livingroom">
-                            <img src="img/gallery/entertainment_center_gallery.jpg" alt="Marine Food Gallery">
+                            <img src="img/gallery/entertainment_center_gallery.jpg" alt="Living room entertainment center">
                             <div class="overlay">
                                 <div class="overlay-details">
                                     <h3>Entertainment Center</h3>
@@ -211,7 +211,7 @@
                             </div><!-- /overlay -->
                         </li>
                         <li class="overlay-container mix closet">
-                            <img src="img/gallery/closet_gallery.jpg" alt="Marine Food Gallery">
+                            <img src="img/gallery/closet_gallery.jpg" alt="Closet cabinetry">
                             <div class="overlay">
                                 <div class="overlay-details">
                                     <h3>Closet Cabinets</h3>
@@ -242,9 +242,8 @@
   
                     </div><!-- /row -->
                 </div><!-- /container -->
-            </section><!-- /services -->
-    
-            <section class="map">
+            </section> <!-- end services -->
+       <!--         <section class="map">
                 
                 <div class="map-container wow fadeInDown">
                     <div class="row">
@@ -252,8 +251,8 @@
                     <div id="cd-zoom-in"></div>
                     <div id="cd-zoom-out"></div>
                     </div>
-                </div><!-- /map-container -->
-            </section>
+                </div><!-- /map-container
+            </section>-->
 
 <?php 
 	include('php/footer.php'); 

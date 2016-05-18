@@ -9,24 +9,24 @@
         <!-- Start wrapper -->
         <div class="wrapper">
         
-           <!-- Start main-header -->
-           <header class="main-header" id="top">
-               <div class="top-banner-container top-banner-container-style1">
-                   <div class="top-banner-bg custom-bg3 parallax" data-stellar-background-ratio="0.5"></div>
-                   <div class="top-banner">
-                       <div class="top-image">
+            <!-- Start main-header -->
+            <header class="main-header" id="top">
+                <div class="top-banner-container top-banner-container-style1">
+                    <div class="top-banner-bg custom-bg3 parallax" data-stellar-background-ratio="0.5"></div>
+                    <div class="top-banner">
+                        <div class="top-image">
                             <header class="section-title">
-                                <h1 class="background-box">Interior Home Solutions</h1>
-                                <h3 class="background-box .learn-more">Learn why you should choose us for your next home renovation.</h3>
-                            </header>      
-                       </div><!-- /top-image -->
-                       <div class="bottom-image">
-                          
-                       </div><!-- /bottom-image -->
-                   </div><!-- /top-banner -->
-               </div><!-- /top-banner-container -->
-           </header>
-           <!-- End main-header -->
+                                <h1 class="background-box " >Interior Home Solutions</h1>
+                                <h3 class="background-box learn-more">Learn why you should choose us for your next home renovation.</h3>
+                            </header>                  
+                        </div><!-- /top-image -->
+                        <div class="bottom-image">
+        
+                        </div><!-- /bottom-image -->
+                    </div><!-- /top-banner -->
+                </div><!-- /top-banner-container -->
+            </header>
+            <!-- End main-header -->
 
            <section class="reservation-terms dark-bg">
                <div class="container">
@@ -82,14 +82,14 @@
            </section>
 
 
-
+<!--
             <section class="map">
                 <div class="map-container wow fadeInDown">
                     <div id="google-map"></div>
                     <div id="cd-zoom-in"></div>
                     <div id="cd-zoom-out"></div>
-                </div><!-- /map-container -->
-            </section>
+                </div><!-- /map-container 
+            </section>-->
 
 <?php 
 	include('php/footer.php'); 

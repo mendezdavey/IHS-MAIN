@@ -3,7 +3,8 @@
 	include('php/head.php'); ?>
 <?php 
     define("ABOUT", "active");
-    include('php/main_menu.php'); ?>      
+    include('php/main_menu.php'); 
+?>      
         <!-- Start wrapper -->
         <div class="wrapper">
         
@@ -65,8 +66,9 @@ We strive to keep our services competitive in value and pricing, and our company
                                     <p>Interior Home Solutions</p>
                                 </div><!-- /overlay-details -->
                                 <div class="buttons-container">
-                                    <a href="#" class="button-link"></a>
-                                    <a href="#" class="button-zoom"></a>
+                                    <!-- ADD THE LINKS LATER TO A PICTURE GALLERY WEBSITE.
+                                    <a href="#" class="button-link"></a>-->
+                                    <a href="img/team/entertainment_center.jpg" class="button-zoom popup-trigger"></a>
                                 </div><!-- /buttons-container -->
                             </div><!-- /overlay -->
                         </li>
@@ -154,18 +156,12 @@ We strive to keep our services competitive in value and pricing, and our company
                     <p>"We strive to keep our services <span>competitive</span> in <span>value</span> and <span>pricing</span>, 
                         and our company policies are based on <span>honesty</span> and <span>integrity</span>."</p>
                 </div><!-- /promo -->
+
             </section>
             
    
 
 
-            <section class="map">
-                <div class="map-container wow fadeInDown">
-                    <div id="google-map"></div>
-                    <div id="cd-zoom-in"></div>
-                    <div id="cd-zoom-out"></div>
-                </div><!-- /map-container -->
-            </section>
 
 <?php 
 	include('php/footer.php'); 
