@@ -22,8 +22,8 @@
                 <div class="logo-container">
                     <a href="index.php">
                   
-                        <img id="logo" src="IHSLOGOADDINGSwhite.png" alt="Interior Home Solutions Logo">
-                                      <h5>Interior Home Solutions</h5>
+                        <img id="logo" src="ihs_logo_redesign.png" alt="Interior Home Solutions Logo">
+                                   
                    <!-- <h6>Custom Cabinets and Interior Trim</h6>-->
                         <!--<img src="img/logo/logo.png" alt="Marine Food Logo">-->
                     </a>

@@ -4,7 +4,7 @@
                         <div class="col-md-3 align-center">
                             <div class="logo-container wow fadeInLeft">
                                 <a href="index.php">
-                                    <img id="logo" src="IHSLOGOADDINGSwhite.png" alt="Interior Home Solutions Logo">
+                                    <img id="logo" src="ihs_logo_redesign.png" alt="Interior Home Solutions Logo">
                                 <!--    <h3>Interior Home Solutions</h3>
                                     <h4>Custom Cabinets and Interior Trim</h4>-->
                                 </a>
